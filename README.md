@@ -9,11 +9,11 @@ CR3D1T0S:
       Agradecimento em especial ao meu mano Wesley, que passou alguns dos códigos desse repositório.
        
       O Time que decifrou o passe-livre da disciplina:
-        - LENDÁRIO Oficial
-        - Fernando
-        - Emily
-        - Rebeca
-        - Jonas
-        - Jadiel
+        - LENDÁRIO Oficial https://github.com/wesleyluz
+        - Fernando https://github.com/fernandodojo
+        - Emily https://github.com/emilysoueu
+        - Rebeca https://github.com/kellyberreca
+        - Jonas https://github.com/Jakiminski
+        - Jadiel https://github.com/JadielJr
       
 D1V1RT4M-SE, crianças !
